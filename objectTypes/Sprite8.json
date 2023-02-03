@@ -1,0 +1,71 @@
+{
+	"name": "Sprite8",
+	"plugin-id": "Sprite",
+	"sid": 105218929243798,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Heath4",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 822823385012773
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Bullet",
+			"name": "Bullet",
+			"sid": 372792418088177
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 200,
+						"height": 184,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3485055,
+						"collisionPoly": {
+							"points": [
+								0.295,
+								0.32065217391304346,
+								0.5,
+								0.2554347826086957,
+								0.725,
+								0.29891304347826086,
+								0.545,
+								0.5,
+								0.76,
+								0.7391304347826086,
+								0.5,
+								0.8097826086956522,
+								0.265,
+								0.7119565217391305,
+								0.185,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 573150047359027,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

@@ -1,0 +1,63 @@
+{
+	"name": "Sprite9",
+	"plugin-id": "Sprite",
+	"sid": 180409790312039,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Fade",
+			"name": "Fade",
+			"sid": 835738808767451
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 211,
+						"height": 239,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2202754,
+						"collisionPoly": {
+							"points": [
+								0.33175355450236965,
+								0.2928870292887029,
+								0.5,
+								0.029288702928870293,
+								0.7677725118483413,
+								0.20502092050209206,
+								0.9004739336492891,
+								0.5,
+								0.6350710900473934,
+								0.6778242677824268,
+								0.5,
+								1,
+								0.26540284360189575,
+								0.7656903765690377,
+								0.1990521327014218,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 262007363656918,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

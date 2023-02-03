@@ -1,0 +1,81 @@
+{
+	"name": "Sprite3",
+	"plugin-id": "Sprite",
+	"sid": 184939572706919,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "Health2",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 248094681168332
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "EightDir",
+			"name": "8Direction",
+			"sid": 897069530852428
+		},
+		{
+			"behaviorId": "scrollto",
+			"name": "ScrollTo",
+			"sid": 818664272583392
+		},
+		{
+			"behaviorId": "bound",
+			"name": "BoundToLayout",
+			"sid": 847851353292784
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 108,
+						"height": 103,
+						"originX": 0.8888888888888888,
+						"originY": 0.5048543689320388,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 328076,
+						"collisionPoly": {
+							"points": [
+								0.23148148148148148,
+								0.24271844660194175,
+								0.5,
+								0.06796116504854369,
+								0.6944444444444444,
+								0.32038834951456313,
+								0.9537037037037037,
+								0.5,
+								0.7037037037037037,
+								0.6893203883495146,
+								0.5,
+								0.970873786407767,
+								0.19444444444444445,
+								0.7961165048543689,
+								0.037037037037037035,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 973331253294022,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
